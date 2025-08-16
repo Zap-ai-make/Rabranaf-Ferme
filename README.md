@@ -43,16 +43,7 @@ Rabranaf/
     └── chatbot.html
 ```
 
-## 🚀 Installation et utilisation
 
-1. **Cloner le repository**
-   ```bash
-   git clone https://github.com/username/rabranaf-ferme.git
-   cd rabranaf-ferme
-   ```
-
-2. **Configuration Google Maps** 
-   - Remplacer `CLE_API` dans les fichiers HTML par votre clé API Google Maps
    
 3. **Lancer le site**
    - Ouvrir `index.html` dans un navigateur
